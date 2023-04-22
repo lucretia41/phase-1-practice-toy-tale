@@ -16,13 +16,13 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
@@ -47,6 +47,54 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Spiderman",
+      "image": "",
+      "likes": 6,
+      "id": 9
+    },
+    {
+      "name": "Spiderman",
+      "image": "",
+      "likes": 4,
+      "id": 10
+    },
+    {
+      "name": "Darth Vader",
+      "image": "https://www.antiquestradegazette.com/news/2018/early-and-rare-darth-vader-figure-among-stand-out-lots-in-us-auction-of-kenner-star-wars-toys/",
+      "likes": 4,
+      "id": 11
+    },
+    {
+      "name": "Darth Vader",
+      "image": "https://www.antiquestradegazette.com/news/2018/early-and-rare-darth-vader-figure-among-stand-out-lots-in-us-auction-of-kenner-star-wars-toys/",
+      "likes": 4,
+      "id": 12
+    },
+    {
+      "name": "godzilla",
+      "image": "",
+      "likes": 2,
+      "id": 13
+    },
+    {
+      "name": "godzilla",
+      "image": "",
+      "likes": 4,
+      "id": 14
+    },
+    {
+      "name": "gijoe",
+      "image": "",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "gijoe",
+      "image": "",
+      "likes": 0,
+      "id": 16
     }
   ]
 }
