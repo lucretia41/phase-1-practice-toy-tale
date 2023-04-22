@@ -50,25 +50,25 @@
     },
     {
       "name": "Spiderman",
-      "image": "",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 6,
       "id": 9
     },
     {
-      "name": "Spiderman",
-      "image": "",
+      "name": "Green Goblin",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 4,
       "id": 10
     },
     {
-      "name": "Darth Vader",
+      "name": "Lord Vader",
       "image": "https://www.antiquestradegazette.com/news/2018/early-and-rare-darth-vader-figure-among-stand-out-lots-in-us-auction-of-kenner-star-wars-toys/",
       "likes": 4,
       "id": 11
     },
     {
       "name": "Darth Vader",
-      "image": "https://www.antiquestradegazette.com/news/2018/early-and-rare-darth-vader-figure-among-stand-out-lots-in-us-auction-of-kenner-star-wars-toys/",
+      "image": "https://galacticfigures.com/figureDetails.aspx?id=1949",
       "likes": 4,
       "id": 12
     },
@@ -79,7 +79,7 @@
       "id": 13
     },
     {
-      "name": "godzilla",
+      "name": "Stormtrooper",
       "image": "",
       "likes": 4,
       "id": 14
@@ -91,7 +91,13 @@
       "id": 15
     },
     {
-      "name": "gijoe",
+      "name": "Cobra",
+      "image": "",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Darth Vader",
       "image": "",
       "likes": 0,
       "id": 16
